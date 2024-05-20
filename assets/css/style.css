@@ -302,7 +302,7 @@ footer i:hover{
     .galleryitemplatillos{
         flex-direction: row;
         justify-content: center;
-        background-size: 100%;
+        background-size: 100vh;
         z-index: 1;
        
     }
